@@ -39,9 +39,10 @@ The dataset includes the following fields:
 
 ## 🧪 ETL Process
 
+1. Extract
+Load the raw CSV using Pandas
 
-**
-### 2. Transform**
+2. Transform
 Handle missing values
 
 Convert data types (e.g., Date)
@@ -52,7 +53,7 @@ Add calculated columns like Revenue
 
 Save cleaned data as sales_data.csv
 
-**### 3. Load**
+3. Load
 Import the cleaned CSV into Tableau
 
 Build an interactive dashboard using charts listed below
