@@ -39,9 +39,7 @@ The dataset includes the following fields:
 
 ## 🧪 ETL Process
 
-### 1. Extract
-Load the raw CSV using Pandas:
-```python
+
 **
 ### 2. Transform**
 Handle missing values
