@@ -85,4 +85,4 @@ Visual storytelling using Tableau
 Building filterable, interactive dashboards
 
 🔗 Live Tableau Dashboard
-[Tableau Link] (https://public.tableau.com/views/Supplement_Sales_Data_Visualisation/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Link](https://public.tableau.com/views/Supplement_Sales_Data_Visualisation/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
